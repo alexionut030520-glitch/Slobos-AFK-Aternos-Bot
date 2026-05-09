@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "alexionut8277.aternos.me",
-    "port": 49491,
+    "port": "49491",
     "version": "",
     "try-creative": false
   },
